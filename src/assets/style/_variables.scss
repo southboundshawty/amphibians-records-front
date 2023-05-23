@@ -1,0 +1,13 @@
+$primaryGreen: rgba(41, 175, 85, 1);
+$primaryGrey: #222222;
+$whiteOpacity: rgba(255, 255, 255, 0.5);
+$whiteOpacity20: rgba(255, 255, 255, 0.2);
+$whiteOpacity70: rgba(255, 255, 255, 0.7);
+
+html.dark {
+  --el-color-primary: rgba(41, 175, 85, 1);
+  --el-color-success: rgba(41, 175, 85, 1);
+  --el-color-success-light-3: rgba(41, 175, 85, 0.5);
+}
+
+$--lg: 1500px !default;
